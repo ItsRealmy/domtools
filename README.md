@@ -1,4 +1,4 @@
-# domtools
+# **do**m**too**ls
 
 Some useful tools for your DOM (and more)!
 

@@ -1,5 +1,5 @@
 {
-  "name": "domtools",
+  "name": "dotoo",
   "version": "0.1.0",
   "description": "A few useful tools for manipulating the DOM.",
   "main": "src/index.js",
